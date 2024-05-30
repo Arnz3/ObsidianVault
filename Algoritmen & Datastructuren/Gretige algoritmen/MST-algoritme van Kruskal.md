@@ -21,7 +21,7 @@ __bewijs__
 - nummer bogen $T$ als $e_{1}, ... e_{n-1}$ zodat $w(e_{1}) \leq ... \leq w(e_{n-1})$
 - onderstel $T$ geen MST
 - zij $T'$ een MST, zoveel mogelijk bogen gemeen met $T$
-- zij $e_{i}$ eerste boog niet $\notin T'$ (wel $\in T$)
+- zij $e_{i}$ eerste boog  $\notin T'$ (wel $\in T$)
 - $T' + e_{i}$ heeft cykel $C$, zij $e_{0} \in C$ en $\notin T$
 - $T' + e_{i} - e_{0}$ is opspannend boom $T''$
 - $w(T'') = w(T') + w(e_{i}) - w(e_{0}) \Rightarrow w(e_{i}) \geq w(e_{0})$ (omdat $T'$ een MST)
@@ -36,6 +36,8 @@ Hoe controleren dat boog toevoegen cykel zou vormen?
 - bogen tussen toppen in $\neq$ componenten zijn toegelaten
 - bogen tussen toppen in $=$ component zijn niet toegelaten
 - voor elke top bijhouden: kleinste top uit zijn component
+
+![[Pasted image 20240530131916.png]]
 
 ## complexiteit
 - sorteren bogen volgens stijgend gewicht
