@@ -21,9 +21,9 @@ S <- {u0}; S' <- V(G) - {u0}
 l(u0) <- 0; l(v) <- oneindig,VA v in V(G) - {u0}
 for all i from 0 to n-1 do
 	{(A) Aanpassen labels}
-	for all v in S' waarvoor uiv in E(G) do
-		if l(v) > l(ui) + w(uiv) then
-			l(v) <- l(ui) + w(uiv)
+	for all v in S' waarvoor ui-v in E(G) do (ui-v pad)
+		if l(v) > l(ui) + w(ui-v) then
+			l(v) <- l(ui) + w(ui-v)
 			p(v) <- ui
 	{(B) Bepalen volgende top}
 	bepaal lmin <- min{l(v)|v in S'}

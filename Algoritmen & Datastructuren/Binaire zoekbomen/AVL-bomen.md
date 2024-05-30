@@ -21,3 +21,6 @@ __Bewijs__
 - toevoegen kan balans verstoren 
 - -> balans te herstellen
 - -> boom herstructureren via rotatie
+![[Pasted image 20240530201045.png]]
+Soms lost één rotatie het probleem niet op dan moeten we een dubbele rotatie doen.
+![[Pasted image 20240530201146.png]]

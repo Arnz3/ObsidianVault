@@ -41,7 +41,7 @@ Hoe controleren dat boog toevoegen cykel zou vormen?
 
 ## complexiteit
 - sorteren bogen volgens stijgend gewicht
-	- kost $O(m log n)$
+	- kost $\Theta(m log n)$
 - bijhouden woud en controle op cykels
-	- kost $O(n²)$
-- totale kost $O(m log n + n²)$ 
+	- kost $\Theta(n²)$
+- totale kost $\Theta(m log n + n²)$ 

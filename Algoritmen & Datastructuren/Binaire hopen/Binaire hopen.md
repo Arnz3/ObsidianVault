@@ -5,8 +5,9 @@ Een __links-complete binaire boom__ is een binaire boom waarvan alle niveau's vo
 ##### stellingen
 Een links-complete binaire boom heeft een __impliciete representatie__ aan de hand van een array
 
-Een links-complete binaire boom met $n$ toppen heeft hoogte $\lfloor log_{2}n  \rfloor$ 
+![[Pasted image 20240530194612.png]]
 
+Een links-complete binaire boom met $n$ toppen heeft hoogte $\lfloor log_{2}n  \rfloor$ 
 ## ordeningseigenschap
 ### prioriteitsboom
 Voor elke top $x$ en zijn ouder $p$: sleutel in $x$ is groter dan sleutel in $p$
