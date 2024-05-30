@@ -20,4 +20,4 @@ return S, P
 ```
 
 ## complexiteit
-Wanneer BFS van een graaf $G$ met $n$ toppen en $m$ bogen gebeurt met de bedoeling om alle toppen systematisch te bezoeken. Dan wordt elke boog hoogstens 2x bekeken, eenmaal vanuit elk van zijn eindtoppen. Een geisoleerde top hoogstens 1 maal, dus $O(n+m)$ 
+Wanneer BFS van een graaf $G$ met $n$ toppen en $m$ bogen gebeurt met de bedoeling om alle toppen systematisch te bezoeken. Dan wordt elke boog hoogstens 2x bekeken, eenmaal vanuit elk van zijn eindtoppen. Een geisoleerde top hoogstens 1 maal, dus $\Theta(n+m)$ 

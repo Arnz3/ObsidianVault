@@ -22,3 +22,11 @@ for all w in V: w ~ v do
 	if dfi(w) == 0 then
 		DFS(w)
 ```
+## complexiteit
+Elke boog wordt hoogstens tweemaal bekeken door het algoritme. Dus de totale complexiteit is $\Theta(n+m)$.
+
+### Toepassingen
+- bepalen of graaf samenhangend is 
+- bepalen of graaf acyclisch is
+- bepalen of graaf bipartiet is
+- bepalen of graaf een scharniertop heeft

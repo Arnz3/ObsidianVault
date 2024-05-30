@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Algoritmen & Datastructuren/Grafen en Algoritmen/Diepte-eerst doorlopen.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Algoritmen & Datastructuren/Grafen en Algoritmen/Breedte-Eerst doorlopen.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmen & Datastructuren/Grafen en Algoritmen/Grafen.md",
+                "file": "Algoritmen & Datastructuren/Grafen en Algoritmen/Diepte-eerst doorlopen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmen & Datastructuren/Grafen en Algoritmen/Grafen.md",
+                "file": "Algoritmen & Datastructuren/Grafen en Algoritmen/Diepte-eerst doorlopen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmen & Datastructuren/Grafen en Algoritmen/Grafen.md"
+                "file": "Algoritmen & Datastructuren/Grafen en Algoritmen/Diepte-eerst doorlopen.md"
               }
             }
           }
@@ -173,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b7db5a53978620b",
+  "active": "e09b2ec8f019d918",
   "lastOpenFiles": [
     "Algoritmen & Datastructuren/Grafen en Algoritmen/Breedte-Eerst doorlopen.md",
     "Algoritmen & Datastructuren/Grafen en Algoritmen/Diepte-eerst doorlopen.md",
