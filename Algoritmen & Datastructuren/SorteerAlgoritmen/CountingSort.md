@@ -13,13 +13,13 @@ INPUT: rij (a1, ..., an) met alle ai in [0,k]
 OUTPUT: gesorteerde rij (b1, ..., bn)
 for j from 0 to max do
       c[j] = 0
-   for i from 1 to n do
-      c[a[i]] = c[a[i]] + 1
-   for j from 1 to max do
-      c[j] = c[j] + c[j-1]
-   for i from n to 1 do
-      b[c[a[i]]] = a[i]
-      c[a[i]] = c[a[i]] - 1
+for i from 1 to n do
+  c[a[i]] = c[a[i]] + 1
+for j from 1 to max do
+  c[j] = c[j] + c[j-1]
+for i from n to 1 do
+  b[c[a[i]]] = a[i]
+  c[a[i]] = c[a[i]] - 1
 ```
 
 ## complexiteit

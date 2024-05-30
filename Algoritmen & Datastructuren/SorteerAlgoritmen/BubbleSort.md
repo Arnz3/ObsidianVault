@@ -14,7 +14,7 @@ for i from n to 2 do
 
 ## complexiteit
 
-_BubbleSort heeft tijdscomplexiteit T(n) = 0(n²)_
+_BubbleSort heeft tijdscomplexiteit $T(n) = \Theta(n²)$_
 
 Het aantal vergelijking $C(n)$ in **Bubblesort** is hetzelfde voor alle mogelijke rijen van lengte $n$, 
 $C(n) = n(n-1)/2$. Het aantal verwisselingen $S(n)$ hangt af van de inputrij, en kan variëren van $S_{b}(n) = 0$ in het beste geval tot $S_{s}(n) = C(n)$ in het slechtste geval. De totale complexiteit is dus $T(n) = O(n²)$ 

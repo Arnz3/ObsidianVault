@@ -1,4 +1,4 @@
-De __binaire hoop__ is een specifieke datastructuur die veel gebruikt wordt als voorstelling van het _ADT priorityQueue_. 
+De __binaire hoop__ is een specifieke datastructuur die veel gebruikt wordt als voorstelling van het _ADT priorityQueue_. Het is een binaire boom die voldoet aan volgende structuureigenschap en ordeningseigenschap.
 ## Structuureigenschap
 ### links-complete binaire boom
 Een __links-complete binaire boom__ is een binaire boom waarvan alle niveau's volledig gevuld zijn, behalve het eventueel het laatste, dat van links naar rechts gevuld is.

@@ -2,6 +2,7 @@
 - 5.1 Kwadratische sorteeralgoritmen
 	- 5.1.1 [[SelectionSort]]
 	- 5.1.2 [[InsertionSort]]
+	- 5.1.3 [[BubbleSort]]
 - 5.2 [[MergeSort]]
 - 5.3 [[Quicksort]]
 - 5.4 Lineaire sorteeralgoritmen

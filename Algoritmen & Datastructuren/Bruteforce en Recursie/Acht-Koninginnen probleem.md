@@ -29,5 +29,5 @@ else
 		if volgende positie (r, k) veilig then
 			plaats koningin k op positie (r, k)
 			probeer koningin k+1 te plaatsen
-			verwijdre koningin k van positie (r, k)
+			verwijder koningin k van positie (r, k)
 ```
