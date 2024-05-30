@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "28e0bb8f82939874",
+        "id": "30fad8940a456446",
         "type": "tabs",
         "children": [
           {
-            "id": "11ea6dfe1c9969be",
+            "id": "e09b2ec8f019d918",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmen & Datastructuren/SorteerAlgoritmen/CountingSort.md",
+                "file": "Algoritmen & Datastructuren/Grafen en Algoritmen/Diepte-eerst doorlopen.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a53b90c7e5ca507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmen & Datastructuren/Grafen en Algoritmen/Breedte-Eerst doorlopen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b7db5a53978620b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmen & Datastructuren/Grafen en Algoritmen/Grafen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmen & Datastructuren/SorteerAlgoritmen/CountingSort.md",
+                "file": "Algoritmen & Datastructuren/Grafen en Algoritmen/Grafen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmen & Datastructuren/SorteerAlgoritmen/CountingSort.md",
+                "file": "Algoritmen & Datastructuren/Grafen en Algoritmen/Grafen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmen & Datastructuren/SorteerAlgoritmen/CountingSort.md"
+                "file": "Algoritmen & Datastructuren/Grafen en Algoritmen/Grafen.md"
               }
             }
           }
@@ -148,12 +173,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11ea6dfe1c9969be",
+  "active": "3b7db5a53978620b",
   "lastOpenFiles": [
+    "Algoritmen & Datastructuren/Grafen en Algoritmen/Breedte-Eerst doorlopen.md",
+    "Algoritmen & Datastructuren/Grafen en Algoritmen/Diepte-eerst doorlopen.md",
+    "Algoritmen & Datastructuren/Grafen en Algoritmen/Grafen.md",
     "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md",
+    "Algoritmen & Datastructuren/Grafen en Algoritmen/Bomen.md",
+    "Algoritmen & Datastructuren/Grafen en Algoritmen/Euleriaanse grafen.md",
     "Algoritmen & Datastructuren/SorteerAlgoritmen/BubbleSort.md",
-    "Algoritmen & Datastructuren/SorteerAlgoritmen/InsertionSort.md",
     "Algoritmen & Datastructuren/SorteerAlgoritmen/SelectionSort.md",
+    "Algoritmen & Datastructuren/SorteerAlgoritmen/CountingSort.md",
+    "Algoritmen & Datastructuren/SorteerAlgoritmen/InsertionSort.md",
     "README.md",
     "objectgericht programmeren/Index Objectgericht Programmeren.md",
     "Algoritmen & Datastructuren/Binaire hopen/Binaire hopen.md",
@@ -167,12 +198,6 @@
     "README.md~",
     "Algoritmen & Datastructuren/Gretige algoritmen/MST-algoritme van Kruskal.md",
     "Algoritmen & Datastructuren/Gretige algoritmen/MST-algoritme van Prim.md",
-    "Algoritmen & Datastructuren/Grafen en Algoritmen/Breedte-Eerst doorlopen.md",
-    "Algoritmen & Datastructuren/Grafen en Algoritmen/Diepte-eerst doorlopen.md",
-    "Algoritmen & Datastructuren/Grafen en Algoritmen/Euleriaanse grafen.md",
-    "Algoritmen & Datastructuren/Grafen en Algoritmen/Bomen.md",
-    "Algoritmen & Datastructuren/Grafen en Algoritmen/Grafen.md",
-    "Algoritmen & Datastructuren/SorteerAlgoritmen/CountingSort.md",
     "Algoritmen & Datastructuren/Stapels en wachtlijnen/Stapels en compilers.md",
     "Algoritmen & Datastructuren/Stapels en wachtlijnen/ADT- Stack, Queue, PrioQueue.md",
     "Algoritmen & Datastructuren/SorteerAlgoritmen/Quicksort.md",

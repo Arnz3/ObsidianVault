@@ -24,5 +24,5 @@ for i from n to 1 do
 
 ## complexiteit
 
-Elke lus in het algoritme is ofwel $\Theta(n)$ ofwel $\Theta(k)$. De uitvoeringstijd van het algoritme is dus $T(n) = \Theta(n + k)$. Wanneer $k <= n$  of meer algemeen, wanneer $k$ een functie van $n$ is waarvoor $k = \Theta(n)$, dan wordt $k$ verwaarloosbaar tegenover $n$, dus $T(n) = \Theta(n)$
+Elke lus in het algoritme is ofwel $\Theta(n)$ ofwel $\Theta(k)$. De uitvoeringstijd van het algoritme is dus $T(n) = \Theta(n + k)$. Wanneer $k <= n$  of meer algemeen, wanneer $k$ een functie van $n$ is waarvoor $k = O(n)$, dan wordt $k$ verwaarloosbaar tegenover $n$, dus $T(n) = \Theta(n)$
 

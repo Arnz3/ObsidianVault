@@ -81,4 +81,4 @@ if w.rechts != null then
 ```
 
 
-Zij $T$ een boom met $n$ toppen. Dan gebeurt zowel doorlopen in preorde, postorde en inorde in tijd $O(n)$ 
+Zij $T$ een boom met $n$ toppen. Dan gebeurt zowel doorlopen in preorde, postorde en inorde in tijd $\Theta(n)$ 

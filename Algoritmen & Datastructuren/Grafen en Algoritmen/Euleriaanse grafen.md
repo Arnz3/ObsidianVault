@@ -1,6 +1,8 @@
 __Euleriaans spoor__ is een spoor of circuit dat alle bogen bevat
 __Euleriaans circuit__ is een gesloten spoor dat alle bogen bevat
 
+__Euleriaanse graaf__ is een graaf die een Euleriaans circuit bevat
+
 #### Stellingen 
 zij G samenhangende multigraaf
 - $G$ is euleriaans als en slechts als de graad van elke top even is
