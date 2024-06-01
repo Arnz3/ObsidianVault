@@ -1,3 +1,6 @@
+### 4 Recursie & verdeel-en-heers
+- 4.4 [[Maximale deelrijsom]]
+- 4.6 [[Dichtste puntenpaar]]
 ### 5 sorteeralgoritmen
 - 5.1 Kwadratische sorteeralgoritmen
 	- 5.1.1 [[SelectionSort]]
@@ -7,6 +10,7 @@
 - 5.3 [[Quicksort]]
 - 5.4 Lineaire sorteeralgoritmen
 	- 5.4.1 [[CountingSort]]
+- 5.5 [[Ondergrens complexiteit]]
 ### 6 Stapels en wachtlijnen
 - 6.1 [[ADT- Stack, Queue, PrioQueue]]
 - 6.3 [[Stapels en compilers]]

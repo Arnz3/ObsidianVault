@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmen & Datastructuren/SorteerAlgoritmen/Ondergrens complexiteit.md",
+                "file": "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmen & Datastructuren/SorteerAlgoritmen/Ondergrens complexiteit.md",
+                "file": "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmen & Datastructuren/SorteerAlgoritmen/Ondergrens complexiteit.md",
+                "file": "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmen & Datastructuren/SorteerAlgoritmen/Ondergrens complexiteit.md"
+                "file": "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md"
               }
             }
           }
@@ -148,8 +149,8 @@
   },
   "active": "68701a37d0bbbf67",
   "lastOpenFiles": [
-    "Algoritmen & Datastructuren/Recursie & vedeel en heers/Dichtste puntenpaar.md",
     "Algoritmen & Datastructuren/SorteerAlgoritmen/Ondergrens complexiteit.md",
+    "Algoritmen & Datastructuren/Recursie & vedeel en heers/Dichtste puntenpaar.md",
     "Algoritmen & Datastructuren/Recursie & vedeel en heers/Maximale deelrijsom.md",
     "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md",
     "Algoritmen & Datastructuren/Recursie & vedeel en heers",
