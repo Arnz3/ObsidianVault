@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmen & Datastructuren/Recursie & vedeel en heers/Dichtste puntenpaar.md",
+                "file": "Algoritmen & Datastructuren/SorteerAlgoritmen/Ondergrens complexiteit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmen & Datastructuren/Recursie & vedeel en heers/Dichtste puntenpaar.md",
+                "file": "Algoritmen & Datastructuren/SorteerAlgoritmen/Ondergrens complexiteit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmen & Datastructuren/Recursie & vedeel en heers/Dichtste puntenpaar.md",
+                "file": "Algoritmen & Datastructuren/SorteerAlgoritmen/Ondergrens complexiteit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmen & Datastructuren/Recursie & vedeel en heers/Dichtste puntenpaar.md"
+                "file": "Algoritmen & Datastructuren/SorteerAlgoritmen/Ondergrens complexiteit.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "68701a37d0bbbf67",
   "lastOpenFiles": [
-    "Algoritmen & Datastructuren/Recursie & vedeel en heers/Maximale deelrijsom.md",
     "Algoritmen & Datastructuren/Recursie & vedeel en heers/Dichtste puntenpaar.md",
+    "Algoritmen & Datastructuren/SorteerAlgoritmen/Ondergrens complexiteit.md",
+    "Algoritmen & Datastructuren/Recursie & vedeel en heers/Maximale deelrijsom.md",
     "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md",
     "Algoritmen & Datastructuren/Recursie & vedeel en heers",
     "Algoritmen & Datastructuren/Gretige algoritmen/MST-algoritme van Prim.md",
@@ -181,7 +182,6 @@
     "Algoritmen & Datastructuren/Grafen en Algoritmen/Bomen.md",
     "README.md",
     "Algoritmen & Datastructuren/Binaire hopen/Heapsort.md",
-    "Algoritmen & Datastructuren/Bruteforce en Recursie/Branch-and-bound zoekmethodes.md",
     "README.md~",
     "objectgericht programmeren/JavaFX aanvullingen",
     "objectgericht programmeren/Persistente informatie",
