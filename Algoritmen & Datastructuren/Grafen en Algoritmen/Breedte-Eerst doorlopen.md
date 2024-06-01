@@ -11,7 +11,7 @@ for all v in V met l(v) = 0 do
 	Q.enqueue(v)
 	while Q != null do
 		w <- Q.dequeue()
-		for all x in v met x ~ w en l(x) = 0 do
+		for all x in V met x ~ w en l(x) = 0 do
 			i <- i+1; l(x) <- i
 			B <- B U {wx}
 			P[x] <- w

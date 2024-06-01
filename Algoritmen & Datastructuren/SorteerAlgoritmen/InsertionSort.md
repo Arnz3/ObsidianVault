@@ -13,7 +13,7 @@ for i from 2 to n do
 
 ## complexiteit
 
-_InsertionSort heeft een slechtste-geval-uitvoertijd  $T_{s}(n) = \Theta(n²)$ en een beste-geval-uitvoeringstijd van $T_{b}(n) = \Theta(n)$. 
+_InsertionSort heeft een slechtste-geval-uitvoertijd_  $T_{s}(n) = \Theta(n²)$ _en een beste-geval-uitvoeringstijd van_ $T_{b}(n) = \Theta(n)$. 
 
 In het slechtste geval is het aantal stappen uitgevoerd $n(n-1)/2$. Elke stap komt overeen met een vergelijking en een verwisseling, dus $T_{s}(n) = \Theta(n²)$ 
 Als de rij bij het begin van het algoritme reeds gesorteerd is, hoeft men niet te verwisselen en is $T_{b}(n) = \Theta(n)$ .
@@ -31,7 +31,7 @@ _Het gemiddelde aantal inversies in een rij van n verschillende getallen is gege
 Beschouw 2 willekeurige getallen $(x,y)$ in de rij waarvoor $y>x$. Dit paar correspondeert met een inversie in $A$ ofwel $A_{r}$(omgekeerd). Het totale aantal dergelijke paren voor een rij $A$ is gegeven door $n(n-1)/2$. Het aantal inversies is dus de helft hiervan.
 
 
-_InsertionSort heeft gemiddelde uitvoeringstijd $T_{g}(n) = \Theta(n²)$ 
+_InsertionSort heeft gemiddelde uitvoeringstijd_ $T_{g}(n) = \Theta(n²)$ 
 
 Het aantal inversies is precies gelijk aan het aantal keer dat in het algoritme de opdracht voor het verwisselen van $a_{j}$ en $a_{j-1}$ uitgevoerd wordt. Dus als er $k$ inversies zijn bij de start, dan moeten er $k$ verwisselingen gebeuren. Verder gebeurt enkel nog $\Theta(n)$ werk. Dus de totale tijd komt neer op $\Theta(k + n)$. Met $k$ het aantal inversies. 
 Dus uit vorige stelling $T_{g}(n) = \Theta(n²)$.
