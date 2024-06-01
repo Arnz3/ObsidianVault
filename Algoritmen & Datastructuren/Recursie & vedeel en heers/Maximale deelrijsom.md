@@ -49,3 +49,4 @@ __Complexiteit:__ $\Theta(n)$
 Dit algoritme steunt op enkele eigenschappen:
 - Wanneer een deelrij met $0 \leq i \leq j \leq n-1$, een negatieve som heeft, dan kan de maximale deelrij niet van de vorm $(a_{i}, ..., a_{j}, ..., a_{k})$, met $0 \leq i \leq j < k \leq n-1$ zijn.
 - Voor willekeurige $i \leq 0$ als $a_{i}, ... , a_{j}$ de eerste deelrij is waarvoor de som negatief wordt, dan is voor elke $i \leq p \leq j$ en elke $q \geq p$, de deelrij $a_{p}, ... , a_{q}$ ofwel geen maximale deelrij, ofwel een reeds gezien maximale deelrij
+
