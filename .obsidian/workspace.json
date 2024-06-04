@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md",
+                "file": "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md",
+                "file": "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md",
+                "file": "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md"
+                "file": "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md"
               }
             }
           }
@@ -149,10 +148,19 @@
   },
   "active": "68701a37d0bbbf67",
   "lastOpenFiles": [
+    "objectgericht programmeren/Index Objectgericht Programmeren.md",
+    "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
+    "objectgericht programmeren/Model-View-Controller",
+    "objectgericht programmeren/JavaFX aanvullingen/Gelijkaardige componenten.md",
+    "objectgericht programmeren/Persistente informatie/JSON met behulp van Jackson.md",
     "Algoritmen & Datastructuren/SorteerAlgoritmen/Ondergrens complexiteit.md",
+    "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md",
+    "Algoritmen & Datastructuren/SorteerAlgoritmen/InsertionSort.md",
+    "Algoritmen & Datastructuren/SorteerAlgoritmen/SelectionSort.md",
+    "Algoritmen & Datastructuren/Binaire zoekbomen/AVL-bomen.md",
+    "Algoritmen & Datastructuren/Binaire hopen/Binaire hopen.md",
     "Algoritmen & Datastructuren/Recursie & vedeel en heers/Dichtste puntenpaar.md",
     "Algoritmen & Datastructuren/Recursie & vedeel en heers/Maximale deelrijsom.md",
-    "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md",
     "Algoritmen & Datastructuren/Recursie & vedeel en heers",
     "Algoritmen & Datastructuren/Gretige algoritmen/MST-algoritme van Prim.md",
     "Algoritmen & Datastructuren/Bruteforce en Recursie/Knapsack-probleem.md",
@@ -161,17 +169,12 @@
     "Algoritmen & Datastructuren/SorteerAlgoritmen/CountingSort.md",
     "Algoritmen & Datastructuren/Bruteforce en Recursie/Genereren permutaties.md",
     "Algoritmen & Datastructuren/Bruteforce en Recursie/Backtracking voor klieken.md",
-    "Algoritmen & Datastructuren/SorteerAlgoritmen/SelectionSort.md",
-    "Algoritmen & Datastructuren/SorteerAlgoritmen/InsertionSort.md",
     "Algoritmen & Datastructuren/Grafen en Algoritmen/Euleriaanse grafen.md",
-    "Algoritmen & Datastructuren/Binaire zoekbomen/AVL-bomen.md",
-    "objectgericht programmeren/Index Objectgericht Programmeren.md",
     "Algoritmen & Datastructuren/Grafen en Algoritmen/Breedte-Eerst doorlopen.md",
     "Algoritmen & Datastructuren/Gretige algoritmen/Bepalen kortste paden.md",
     "images/Pasted image 20240530201146.png",
     "images/Pasted image 20240530201045.png",
     "Algoritmen & Datastructuren/Binaire zoekbomen/Binaire zoekbomen.md",
-    "Algoritmen & Datastructuren/Binaire hopen/Binaire hopen.md",
     "images/Pasted image 20240530194612.png",
     "images/Pasted image 20240530131916.png",
     "images",
@@ -180,16 +183,12 @@
     "Pasted image 20240530122348.png",
     "Algoritmen & Datastructuren/Grafen en Algoritmen/Grafen.md",
     "Algoritmen & Datastructuren/Grafen en Algoritmen/Diepte-eerst doorlopen.md",
-    "Algoritmen & Datastructuren/Grafen en Algoritmen/Bomen.md",
-    "README.md",
-    "Algoritmen & Datastructuren/Binaire hopen/Heapsort.md",
     "README.md~",
     "objectgericht programmeren/JavaFX aanvullingen",
     "objectgericht programmeren/Persistente informatie",
     "Algoritmen & Datastructuren/Binaire zoekbomen",
     "Algoritmen & Datastructuren/Binaire hopen",
     "Lineaire Algebra & Meetkunde/Inproducten en Euclidische ruimten",
-    "Lineaire Algebra & Meetkunde/Eigenwaarden, eigenvector en diagnaliseerbaarheid",
-    "objectgericht programmeren/Bijkomende aspecten"
+    "Lineaire Algebra & Meetkunde/Eigenwaarden, eigenvector en diagnaliseerbaarheid"
   ]
 }

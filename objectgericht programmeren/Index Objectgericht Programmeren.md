@@ -18,4 +18,11 @@
 ## 4 JavaFX aanvullingen
 - 4.1 [[Scènes bouwen zonder FXML]]
 - 4.2 [[Eigen component definiëren]]
-- 
+- 4.3 [[Gelijkaardige componenten]]
+## 5 Model/View/Controller
+- 5 
+## 6 JDBC en databanken
+## 8 Complexe elementen
+## 9 Databanken abstraheren
+
+
