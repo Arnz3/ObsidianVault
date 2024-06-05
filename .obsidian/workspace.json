@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
+                "file": "objectgericht programmeren/complexe componenten/combo box en cell factory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
+                "file": "objectgericht programmeren/complexe componenten/combo box en cell factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
+                "file": "objectgericht programmeren/complexe componenten/combo box en cell factory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md"
+                "file": "objectgericht programmeren/complexe componenten/combo box en cell factory.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "68701a37d0bbbf67",
   "lastOpenFiles": [
-    "objectgericht programmeren/Index Objectgericht Programmeren.md",
+    "objectgericht programmeren/Model-View-Controller/JavaFX-eigenschappen.md",
+    "objectgericht programmeren/complexe componenten/combo box en cell factory.md",
+    "objectgericht programmeren/complexe componenten",
+    "README.md",
+    "images/Pasted image 20240605112216.png",
     "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
+    "objectgericht programmeren/Index Objectgericht Programmeren.md",
     "objectgericht programmeren/Model-View-Controller",
     "objectgericht programmeren/JavaFX aanvullingen/Gelijkaardige componenten.md",
     "objectgericht programmeren/Persistente informatie/JSON met behulp van Jackson.md",
@@ -178,17 +183,13 @@
     "images/Pasted image 20240530194612.png",
     "images/Pasted image 20240530131916.png",
     "images",
-    "Untitled.md",
     "Pasted image 20240530122348 1.png",
     "Pasted image 20240530122348.png",
-    "Algoritmen & Datastructuren/Grafen en Algoritmen/Grafen.md",
-    "Algoritmen & Datastructuren/Grafen en Algoritmen/Diepte-eerst doorlopen.md",
     "README.md~",
     "objectgericht programmeren/JavaFX aanvullingen",
     "objectgericht programmeren/Persistente informatie",
     "Algoritmen & Datastructuren/Binaire zoekbomen",
     "Algoritmen & Datastructuren/Binaire hopen",
-    "Lineaire Algebra & Meetkunde/Inproducten en Euclidische ruimten",
-    "Lineaire Algebra & Meetkunde/Eigenwaarden, eigenvector en diagnaliseerbaarheid"
+    "Lineaire Algebra & Meetkunde/Inproducten en Euclidische ruimten"
   ]
 }

@@ -9,4 +9,4 @@ Het maken van deze samenvattingen is deel van mijn leerproces daarom maak ik all
 
 ### Disclaimer
 Sommige wiskunde notaties zijn niet ondersteunt op GitHub. Voor de beste ervaringen gebruik Obsidian zelf om deze vault te openen.
-Links zullen ook enkel werken in Obsidian.
+Links zullen ook enkel werken in Obsidian, net zoals images.
