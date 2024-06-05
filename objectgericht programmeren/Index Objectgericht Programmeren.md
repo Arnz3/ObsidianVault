@@ -20,9 +20,12 @@
 - 4.2 [[Eigen component definiëren]]
 - 4.3 [[Gelijkaardige componenten]]
 ## 5 Model/View/Controller
-- 5 
+- 5.1-5.6 [[Model-View-Controller]]
+- 5.7-5.9 [[JavaFX-eigenschappen]]
 ## 6 JDBC en databanken
 ## 8 Complexe elementen
+- 8.1 [[combo box en cell factory]]
+- 8.4 [[Een eenvoudige tabel]]
 ## 9 Databanken abstraheren
 
 

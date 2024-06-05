@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/combo box en cell factory.md",
+                "file": "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/combo box en cell factory.md",
+                "file": "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/combo box en cell factory.md",
+                "file": "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/combo box en cell factory.md"
+                "file": "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md"
               }
             }
           }
@@ -148,13 +148,16 @@
   },
   "active": "68701a37d0bbbf67",
   "lastOpenFiles": [
-    "objectgericht programmeren/Model-View-Controller/JavaFX-eigenschappen.md",
+    "objectgericht programmeren/Index Objectgericht Programmeren.md",
+    "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
+    "objectgericht programmeren/JDBC en Databanken",
+    "objectgericht programmeren/complexe componenten/Een eenvoudige tabel.md",
     "objectgericht programmeren/complexe componenten/combo box en cell factory.md",
+    "objectgericht programmeren/Model-View-Controller/JavaFX-eigenschappen.md",
     "objectgericht programmeren/complexe componenten",
     "README.md",
     "images/Pasted image 20240605112216.png",
     "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
-    "objectgericht programmeren/Index Objectgericht Programmeren.md",
     "objectgericht programmeren/Model-View-Controller",
     "objectgericht programmeren/JavaFX aanvullingen/Gelijkaardige componenten.md",
     "objectgericht programmeren/Persistente informatie/JSON met behulp van Jackson.md",
@@ -176,10 +179,8 @@
     "Algoritmen & Datastructuren/Bruteforce en Recursie/Backtracking voor klieken.md",
     "Algoritmen & Datastructuren/Grafen en Algoritmen/Euleriaanse grafen.md",
     "Algoritmen & Datastructuren/Grafen en Algoritmen/Breedte-Eerst doorlopen.md",
-    "Algoritmen & Datastructuren/Gretige algoritmen/Bepalen kortste paden.md",
     "images/Pasted image 20240530201146.png",
     "images/Pasted image 20240530201045.png",
-    "Algoritmen & Datastructuren/Binaire zoekbomen/Binaire zoekbomen.md",
     "images/Pasted image 20240530194612.png",
     "images/Pasted image 20240530131916.png",
     "images",
@@ -189,7 +190,6 @@
     "objectgericht programmeren/JavaFX aanvullingen",
     "objectgericht programmeren/Persistente informatie",
     "Algoritmen & Datastructuren/Binaire zoekbomen",
-    "Algoritmen & Datastructuren/Binaire hopen",
-    "Lineaire Algebra & Meetkunde/Inproducten en Euclidische ruimten"
+    "Algoritmen & Datastructuren/Binaire hopen"
   ]
 }
