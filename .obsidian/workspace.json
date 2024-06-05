@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
+                "file": "objectgericht programmeren/JDBC en Databanken/Batch-bewerkingen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
+                "file": "objectgericht programmeren/JDBC en Databanken/Batch-bewerkingen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
+                "file": "objectgericht programmeren/JDBC en Databanken/Batch-bewerkingen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md"
+                "file": "objectgericht programmeren/JDBC en Databanken/Batch-bewerkingen.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "68701a37d0bbbf67",
   "lastOpenFiles": [
     "objectgericht programmeren/Index Objectgericht Programmeren.md",
+    "objectgericht programmeren/JDBC en Databanken/Batch-bewerkingen.md",
     "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
     "objectgericht programmeren/JDBC en Databanken",
     "objectgericht programmeren/complexe componenten/Een eenvoudige tabel.md",
@@ -178,7 +179,6 @@
     "Algoritmen & Datastructuren/Bruteforce en Recursie/Genereren permutaties.md",
     "Algoritmen & Datastructuren/Bruteforce en Recursie/Backtracking voor klieken.md",
     "Algoritmen & Datastructuren/Grafen en Algoritmen/Euleriaanse grafen.md",
-    "Algoritmen & Datastructuren/Grafen en Algoritmen/Breedte-Eerst doorlopen.md",
     "images/Pasted image 20240530201146.png",
     "images/Pasted image 20240530201045.png",
     "images/Pasted image 20240530194612.png",

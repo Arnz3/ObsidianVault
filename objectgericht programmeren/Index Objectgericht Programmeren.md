@@ -23,6 +23,7 @@
 - 5.1-5.6 [[Model-View-Controller]]
 - 5.7-5.9 [[JavaFX-eigenschappen]]
 ## 6 JDBC en databanken
+- 6.1 [[Databanken met JDBC]]
 ## 8 Complexe elementen
 - 8.1 [[combo box en cell factory]]
 - 8.4 [[Een eenvoudige tabel]]
