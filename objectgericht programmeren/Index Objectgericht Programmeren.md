@@ -10,7 +10,7 @@
 - 2.1 [[Meervoudige selectie vermijden]]
 - 2.3 [[Visitor design patern]]
 ## 3 Persistente informatie
-- 3.1 - 3.4 [[Persistente informatie in tekstbestanden]]
+- 3.1-3.4 [[Persistente informatie in tekstbestanden]]
 - 3.5 [[Het pakket java.nio.file]]
 - 3.7 [[Eigenschapsbestanden]]
 - 3.8 [[XML met behulp van JDOM]]
@@ -23,7 +23,8 @@
 - 5.1-5.6 [[Model-View-Controller]]
 - 5.7-5.9 [[JavaFX-eigenschappen]]
 ## 6 JDBC en databanken
-- 6.1 [[Databanken met JDBC]]
+- 6.1-6.2 [[Databanken met JDBC]]
+- 6.3 [[Batch-bewerkingen]]
 ## 8 Complexe elementen
 - 8.1 [[combo box en cell factory]]
 - 8.4 [[Een eenvoudige tabel]]
