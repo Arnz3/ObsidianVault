@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/Cell value factories.md",
+                "file": "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/Cell value factories.md",
+                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/Cell value factories.md",
+                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/Cell value factories.md"
+                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md"
               }
             }
           }
@@ -159,10 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fb13e02d21ec0f5",
+  "active": "68701a37d0bbbf67",
   "lastOpenFiles": [
-    "objectgericht programmeren/complexe componenten/Cell factories voor tabellen.md",
+    "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
     "objectgericht programmeren/complexe componenten/Cell value factories.md",
+    "objectgericht programmeren/complexe componenten/Cell factories voor tabellen.md",
     "objectgericht programmeren/complexe componenten/Een eenvoudige tabel.md",
     "objectgericht programmeren/Index Objectgericht Programmeren.md",
     "objectgericht programmeren/JDBC en Databanken/Batch-bewerkingen.md",
@@ -191,7 +191,6 @@
     "Algoritmen & Datastructuren/Gretige algoritmen/MST-algoritme van Kruskal.md",
     "Algoritmen & Datastructuren/SorteerAlgoritmen/BubbleSort.md",
     "Algoritmen & Datastructuren/SorteerAlgoritmen/CountingSort.md",
-    "Algoritmen & Datastructuren/Bruteforce en Recursie/Genereren permutaties.md",
     "images/Pasted image 20240530201146.png",
     "images/Pasted image 20240530201045.png",
     "images/Pasted image 20240530194612.png",
