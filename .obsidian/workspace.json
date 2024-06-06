@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68701a37d0bbbf67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8fb13e02d21ec0f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
+                "file": "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md",
+                "file": "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md",
+                "file": "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md"
+                "file": "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md"
               }
             }
           }
@@ -158,13 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68701a37d0bbbf67",
+  "active": "8fb13e02d21ec0f5",
   "lastOpenFiles": [
+    "objectgericht programmeren/Index Objectgericht Programmeren.md",
+    "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
     "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
+    "objectgericht programmeren/Databanken abstraheren/Data acces objects.md",
+    "objectgericht programmeren/Databanken abstraheren",
     "objectgericht programmeren/complexe componenten/Cell value factories.md",
     "objectgericht programmeren/complexe componenten/Cell factories voor tabellen.md",
     "objectgericht programmeren/complexe componenten/Een eenvoudige tabel.md",
-    "objectgericht programmeren/Index Objectgericht Programmeren.md",
     "objectgericht programmeren/JDBC en Databanken/Batch-bewerkingen.md",
     "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
     "objectgericht programmeren/JDBC en Databanken",
@@ -189,8 +180,6 @@
     "Algoritmen & Datastructuren/Gretige algoritmen/MST-algoritme van Prim.md",
     "Algoritmen & Datastructuren/Bruteforce en Recursie/Knapsack-probleem.md",
     "Algoritmen & Datastructuren/Gretige algoritmen/MST-algoritme van Kruskal.md",
-    "Algoritmen & Datastructuren/SorteerAlgoritmen/BubbleSort.md",
-    "Algoritmen & Datastructuren/SorteerAlgoritmen/CountingSort.md",
     "images/Pasted image 20240530201146.png",
     "images/Pasted image 20240530201045.png",
     "images/Pasted image 20240530194612.png",
@@ -201,7 +190,6 @@
     "README.md~",
     "objectgericht programmeren/JavaFX aanvullingen",
     "objectgericht programmeren/Persistente informatie",
-    "Algoritmen & Datastructuren/Binaire zoekbomen",
-    "Algoritmen & Datastructuren/Binaire hopen"
+    "Algoritmen & Datastructuren/Binaire zoekbomen"
   ]
 }
