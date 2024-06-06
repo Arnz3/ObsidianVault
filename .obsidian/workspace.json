@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/Een eenvoudige tabel.md",
+                "file": "objectgericht programmeren/complexe componenten/Cell factories voor tabellen.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/Een eenvoudige tabel.md",
+                "file": "objectgericht programmeren/complexe componenten/Cell factories voor tabellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/Een eenvoudige tabel.md",
+                "file": "objectgericht programmeren/complexe componenten/Cell factories voor tabellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/Een eenvoudige tabel.md"
+                "file": "objectgericht programmeren/complexe componenten/Cell factories voor tabellen.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "8fb13e02d21ec0f5",
   "lastOpenFiles": [
-    "objectgericht programmeren/Index Objectgericht Programmeren.md",
     "objectgericht programmeren/complexe componenten/Een eenvoudige tabel.md",
+    "objectgericht programmeren/complexe componenten/Cell factories voor tabellen.md",
+    "objectgericht programmeren/Index Objectgericht Programmeren.md",
     "objectgericht programmeren/JDBC en Databanken/Batch-bewerkingen.md",
     "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
     "objectgericht programmeren/JDBC en Databanken",
@@ -191,7 +192,6 @@
     "Algoritmen & Datastructuren/SorteerAlgoritmen/CountingSort.md",
     "Algoritmen & Datastructuren/Bruteforce en Recursie/Genereren permutaties.md",
     "Algoritmen & Datastructuren/Bruteforce en Recursie/Backtracking voor klieken.md",
-    "Algoritmen & Datastructuren/Grafen en Algoritmen/Euleriaanse grafen.md",
     "images/Pasted image 20240530201146.png",
     "images/Pasted image 20240530201045.png",
     "images/Pasted image 20240530194612.png",
