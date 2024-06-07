@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md",
+                "file": "objectgericht programmeren/Bijkomende aspecten/Statische binnenklassen.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "objectgericht programmeren/Databanken abstraheren/Implementatie van data acces-lib.md",
+                "file": "objectgericht programmeren/Bijkomende aspecten/Statische binnenklassen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "objectgericht programmeren/Databanken abstraheren/Implementatie van data acces-lib.md",
+                "file": "objectgericht programmeren/Bijkomende aspecten/Statische binnenklassen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "objectgericht programmeren/Databanken abstraheren/Implementatie van data acces-lib.md"
+                "file": "objectgericht programmeren/Bijkomende aspecten/Statische binnenklassen.md"
               }
             }
           }
@@ -159,12 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4e7d49929095041",
+  "active": "8fb13e02d21ec0f5",
   "lastOpenFiles": [
+    "4913",
     "objectgericht programmeren/Index Objectgericht Programmeren.md",
+    "objectgericht programmeren/Databanken abstraheren/Implementatie van data acces-lib.md",
     "Untitled 1.md",
     "Untitled.md",
-    "objectgericht programmeren/Databanken abstraheren/Implementatie van data acces-lib.md",
     "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
     "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
     "objectgericht programmeren/Databanken abstraheren/Data acces objects.md",
@@ -191,7 +191,6 @@
     "Algoritmen & Datastructuren/Binaire zoekbomen/AVL-bomen.md",
     "Algoritmen & Datastructuren/Binaire hopen/Binaire hopen.md",
     "Algoritmen & Datastructuren/Recursie & vedeel en heers/Dichtste puntenpaar.md",
-    "Algoritmen & Datastructuren/Recursie & vedeel en heers/Maximale deelrijsom.md",
     "Algoritmen & Datastructuren/Recursie & vedeel en heers",
     "images/Pasted image 20240530201146.png",
     "images/Pasted image 20240530201045.png",
