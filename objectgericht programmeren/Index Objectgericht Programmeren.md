@@ -33,7 +33,7 @@
 - 8.7[[Editeerbare tabellen]]
 ## 9 Databanken abstraheren
 - 9.1 [[Data acces objects]]
-- 
-
+- 9.2 [[Data acces context and data acces provider]]
+- 9.3 [[Implementatie van data acces-lib]]
 
 
