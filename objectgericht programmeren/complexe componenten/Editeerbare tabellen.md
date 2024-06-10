@@ -13,7 +13,7 @@ marksColumn.setCellFactory(
 );
 marksColumn.setEditable(true);
 ```
-Als parameter moet een converter worden meegeven. Dit kan bijvoorbeeld ook een `IntegerStringConverter()` zijn. 
+Als parameter moet een converter worden meegeven. Dit kan bijvoorbeeld ook een `DefaultStringConverter()` zijn. 
 
 ## De edit-commit gebeurtenis
 Je kan een tabel ook editeerbaar maken zonder JavaFX-eigenschappen. Dit doe je door zogenaamde cell _edit_-gebeurtenissen op te vangen. We vangen de `setOnEditCommit` event op.

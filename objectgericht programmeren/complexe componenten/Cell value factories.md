@@ -16,7 +16,7 @@ In de praktijk lost men dit op door bij de rij-elementen geen gewone velden te d
 
 ```java
 public class Row {
-	private StringProperty name = SimpleStringProperty();
+	private StringProperty name = new SimpleStringProperty();
 
 	public StringProperty nameProperty(){
 		return name;

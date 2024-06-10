@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "objectgericht programmeren/Bijkomende aspecten/Statische binnenklassen.md",
+                "file": "objectgericht programmeren/complexe componenten/Cell value factories.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a4e7d49929095041",
+            "id": "3fecdc41e1670a3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "objectgericht programmeren/Databanken abstraheren/Implementatie van data acces-lib.md",
+                "file": "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "objectgericht programmeren/Bijkomende aspecten/Statische binnenklassen.md",
+                "file": "objectgericht programmeren/complexe componenten/Cell value factories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "objectgericht programmeren/Bijkomende aspecten/Statische binnenklassen.md",
+                "file": "objectgericht programmeren/complexe componenten/Cell value factories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "objectgericht programmeren/Bijkomende aspecten/Statische binnenklassen.md"
+                "file": "objectgericht programmeren/complexe componenten/Cell value factories.md"
               }
             }
           }
@@ -160,37 +161,38 @@
   },
   "active": "8fb13e02d21ec0f5",
   "lastOpenFiles": [
-    "4913",
     "objectgericht programmeren/Index Objectgericht Programmeren.md",
+    "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
+    "objectgericht programmeren/complexe componenten/Cell value factories.md",
+    "objectgericht programmeren/Model-View-Controller/JavaFX-eigenschappen.md",
+    "objectgericht programmeren/complexe componenten/Cell factories voor tabellen.md",
+    "objectgericht programmeren/complexe componenten/combo box en cell factory.md",
+    "objectgericht programmeren/complexe componenten/Een eenvoudige tabel.md",
+    "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
+    "objectgericht programmeren/JavaFX aanvullingen/Scènes bouwen zonder FXML.md",
+    "objectgericht programmeren/JavaFX aanvullingen/Eigen component definiëren.md",
+    "objectgericht programmeren/JavaFX aanvullingen/Gelijkaardige componenten.md",
+    "objectgericht programmeren/Persistente informatie/JSON met behulp van Jackson.md",
+    "objectgericht programmeren/Persistente informatie/XML met behulp van JDOM.md",
+    "objectgericht programmeren/Persistente informatie/Persistente informatie in tekstbestanden.md",
+    "objectgericht programmeren/Persistente informatie/Het pakket java.nio.file.md",
+    "objectgericht programmeren/Persistente informatie/Eigenschapsbestanden.md",
+    "objectgericht programmeren/Bijkomende aspecten/Java streams.md",
     "objectgericht programmeren/Databanken abstraheren/Implementatie van data acces-lib.md",
+    "objectgericht programmeren/Bijkomende aspecten/Statische binnenklassen.md",
+    "4913",
     "Untitled 1.md",
     "Untitled.md",
     "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
-    "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
     "objectgericht programmeren/Databanken abstraheren/Data acces objects.md",
     "objectgericht programmeren/Databanken abstraheren",
-    "objectgericht programmeren/complexe componenten/Cell value factories.md",
-    "objectgericht programmeren/complexe componenten/Cell factories voor tabellen.md",
-    "objectgericht programmeren/complexe componenten/Een eenvoudige tabel.md",
     "objectgericht programmeren/JDBC en Databanken/Batch-bewerkingen.md",
     "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
     "objectgericht programmeren/JDBC en Databanken",
-    "objectgericht programmeren/complexe componenten/combo box en cell factory.md",
-    "objectgericht programmeren/Model-View-Controller/JavaFX-eigenschappen.md",
     "objectgericht programmeren/complexe componenten",
     "README.md",
     "images/Pasted image 20240605112216.png",
-    "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
     "objectgericht programmeren/Model-View-Controller",
-    "objectgericht programmeren/JavaFX aanvullingen/Gelijkaardige componenten.md",
-    "objectgericht programmeren/Persistente informatie/JSON met behulp van Jackson.md",
-    "Algoritmen & Datastructuren/SorteerAlgoritmen/Ondergrens complexiteit.md",
-    "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md",
-    "Algoritmen & Datastructuren/SorteerAlgoritmen/InsertionSort.md",
-    "Algoritmen & Datastructuren/SorteerAlgoritmen/SelectionSort.md",
-    "Algoritmen & Datastructuren/Binaire zoekbomen/AVL-bomen.md",
-    "Algoritmen & Datastructuren/Binaire hopen/Binaire hopen.md",
-    "Algoritmen & Datastructuren/Recursie & vedeel en heers/Dichtste puntenpaar.md",
     "Algoritmen & Datastructuren/Recursie & vedeel en heers",
     "images/Pasted image 20240530201146.png",
     "images/Pasted image 20240530201045.png",
@@ -201,7 +203,6 @@
     "Pasted image 20240530122348.png",
     "README.md~",
     "objectgericht programmeren/JavaFX aanvullingen",
-    "objectgericht programmeren/Persistente informatie",
-    "Algoritmen & Datastructuren/Binaire zoekbomen"
+    "objectgericht programmeren/Persistente informatie"
   ]
 }
