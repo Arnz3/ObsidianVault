@@ -29,6 +29,7 @@
 ## 8 Complexe elementen
 - 8.1 [[combo box en cell factory]]
 - 8.2 [[Een boomdiagram]]
+- 8.3 [[Selectiemodel]]
 - 8.4 [[Een eenvoudige tabel]]
 - 8.5 [[Cell factories voor tabellen]]
 - 8.6 [[Cell value factories]]
