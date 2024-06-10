@@ -19,7 +19,7 @@
 - 4.1 [[Scènes bouwen zonder FXML]]
 - 4.2 [[Eigen component definiëren]]
 - 4.3 [[Gelijkaardige componenten]]
-- 4.6 
+- 4.6 [[Internationalisatie]]
 ## 5 Model/View/Controller
 - 5.1-5.6 [[Model-View-Controller]]
 - 5.7-5.9 [[JavaFX-eigenschappen]]
@@ -28,10 +28,11 @@
 - 6.3 [[Batch-bewerkingen]]
 ## 8 Complexe elementen
 - 8.1 [[combo box en cell factory]]
+- 8.2 [[Een boomdiagram]]
 - 8.4 [[Een eenvoudige tabel]]
 - 8.5 [[Cell factories voor tabellen]]
 - 8.6 [[Cell value factories]]
-- 8.7[[Editeerbare tabellen]]
+- 8.7 [[Editeerbare tabellen]]
 ## 9 Databanken abstraheren
 - 9.1 [[Data acces objects]]
 - 9.2 [[Data acces context and data acces provider]]

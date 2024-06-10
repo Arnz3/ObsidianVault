@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md",
+                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md",
+                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md",
+                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md"
+                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md"
               }
             }
           }
@@ -160,9 +160,11 @@
   },
   "active": "8fb13e02d21ec0f5",
   "lastOpenFiles": [
+    "objectgericht programmeren/complexe componenten/Untitled.md",
+    "objectgericht programmeren/complexe componenten/Een boomdiagram.md",
     "objectgericht programmeren/Index Objectgericht Programmeren.md",
-    "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md",
     "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
+    "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md",
     "objectgericht programmeren/complexe componenten/Cell value factories.md",
     "objectgericht programmeren/Model-View-Controller/JavaFX-eigenschappen.md",
     "objectgericht programmeren/complexe componenten/Cell factories voor tabellen.md",
@@ -186,8 +188,6 @@
     "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
     "objectgericht programmeren/Databanken abstraheren/Data acces objects.md",
     "objectgericht programmeren/Databanken abstraheren",
-    "objectgericht programmeren/JDBC en Databanken/Batch-bewerkingen.md",
-    "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
     "objectgericht programmeren/JDBC en Databanken",
     "objectgericht programmeren/complexe componenten",
     "images/Pasted image 20240605112216.png",
