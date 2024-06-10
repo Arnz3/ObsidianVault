@@ -20,18 +20,31 @@
             }
           },
           {
+            "id": "3151ce3ced57ff9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3fecdc41e1670a3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
-                "mode": "source",
+                "file": "objectgericht programmeren/Databanken abstraheren/Data acces objects.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md",
+                "file": "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md",
+                "file": "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md"
+                "file": "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md"
               }
             }
           }
@@ -158,11 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fb13e02d21ec0f5",
+  "active": "3151ce3ced57ff9d",
   "lastOpenFiles": [
-    "objectgericht programmeren/complexe componenten/Selectiemodel.md",
-    "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
     "objectgericht programmeren/Index Objectgericht Programmeren.md",
+    "objectgericht programmeren/Databanken abstraheren/Data acces objects.md",
+    "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
+    "objectgericht programmeren/Programmeren 'zonder if'/Visitor design patern.md",
+    "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md",
+    "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
+    "objectgericht programmeren/complexe componenten/Selectiemodel.md",
     "objectgericht programmeren/complexe componenten/Een boomdiagram.md",
     "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
     "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md",
@@ -183,10 +200,6 @@
     "objectgericht programmeren/Databanken abstraheren/Implementatie van data acces-lib.md",
     "objectgericht programmeren/Bijkomende aspecten/Statische binnenklassen.md",
     "4913",
-    "Untitled 1.md",
-    "Untitled.md",
-    "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
-    "objectgericht programmeren/Databanken abstraheren/Data acces objects.md",
     "objectgericht programmeren/Databanken abstraheren",
     "objectgericht programmeren/JDBC en Databanken",
     "objectgericht programmeren/complexe componenten",

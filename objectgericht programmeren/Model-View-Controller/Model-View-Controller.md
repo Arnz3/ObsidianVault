@@ -41,3 +41,22 @@ public class Model implements Observable{
 ## De view
 Een view moet enkel de functie `invalidated(Observable model)` hebben en in deze functie de data opnieuw ophalen.
 
+```java
+public class View implements InvalidationListener{
+	private Model model;
+
+	public View(){...}
+
+	public void setModel(Model model){
+		this.model = model;
+		model.addListener(this);
+	}
+
+	@Override
+	public void invalidated(Obeservable model){
+		...
+	}
+
+}
+```
+

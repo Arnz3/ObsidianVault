@@ -1,4 +1,4 @@
-Als we in een programme en DAO willen gebruiken, moeten we op één of andere manier een DAO-object zien te bekomen. Aangezien DAO enkel interface gespecificeerd zijn kunnen we niet zomaar __new__ doen. 
+Als we in een programma een DAO willen gebruiken, moeten we op één of andere manier een DAO-object zien te bekomen. Aangezien DAO enkel interface gespecificeerd zijn kunnen we niet zomaar __new__ doen. 
 Hiervoor gebruiken we een _data acces context_
 ```java
 public interface DataAccesContext extends Autoclosable {
