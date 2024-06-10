@@ -19,6 +19,7 @@
 - 4.1 [[Scènes bouwen zonder FXML]]
 - 4.2 [[Eigen component definiëren]]
 - 4.3 [[Gelijkaardige componenten]]
+- 4.6 
 ## 5 Model/View/Controller
 - 5.1-5.6 [[Model-View-Controller]]
 - 5.7-5.9 [[JavaFX-eigenschappen]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/Cell value factories.md",
+                "file": "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/Cell value factories.md",
+                "file": "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/Cell value factories.md",
+                "file": "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "objectgericht programmeren/complexe componenten/Cell value factories.md"
+                "file": "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md"
               }
             }
           }
@@ -162,6 +161,7 @@
   "active": "8fb13e02d21ec0f5",
   "lastOpenFiles": [
     "objectgericht programmeren/Index Objectgericht Programmeren.md",
+    "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md",
     "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
     "objectgericht programmeren/complexe componenten/Cell value factories.md",
     "objectgericht programmeren/Model-View-Controller/JavaFX-eigenschappen.md",
@@ -190,7 +190,6 @@
     "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
     "objectgericht programmeren/JDBC en Databanken",
     "objectgericht programmeren/complexe componenten",
-    "README.md",
     "images/Pasted image 20240605112216.png",
     "objectgericht programmeren/Model-View-Controller",
     "Algoritmen & Datastructuren/Recursie & vedeel en heers",
