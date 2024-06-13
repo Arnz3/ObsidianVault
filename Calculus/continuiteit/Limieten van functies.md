@@ -1,9 +1,9 @@
 ## Accumulatie punt
-Een punt $x_{0} \in \mathbb{R}$ is een **accumulatie punt** van de verzameling $X \subset \mathbb{R}$ als het limiet van de rij in $X \backslash \{x_{0}\}$ 
+Een punt $x_{0} \in \mathbb{R}$ is een **accumulatie punt** van de verzameling $X \subset \mathbb{R}$ als het limiet van de rij in $X \setminus \{x_{0}\}$ 
 
 Stel $f$ is een functie , $y  \in \mathbb{R}$ en $x_{0}$ is een accumulatie punt van $dom(f)$ . We zeggen dat $f(x)$ convergeert naar $y$ als $x$ nadert naar $x_{0}$, en schrijven $y = \displaystyle \lim_{x \to x_{0}} f(x)$ 
-Als elke rij $\{x_{k}\}$ in $dom(f) \backslash \{x_{0}\}$ die convergeert naar $x_{0}$   $x_{k} \to x_{0}$ 
-voldoet aan $f(x_{k}) \to y$ .
+Als elke rij $\{x_{k}\}$ in $dom(f) \setminus \{x_{0}\}$ die convergeert naar $x_{0}$   $x_{k} \to x_{0}$ 
+voldoet aan $f(x_{k}) \to y$
 
 ### eigenschap
 Als een functie $f$ continu is over een open interval dan geldt, $\displaystyle \lim_{x \to x_{0}} f(x) = f(x_{0})$ voor elk punt $x_{0}$ in dat interval
