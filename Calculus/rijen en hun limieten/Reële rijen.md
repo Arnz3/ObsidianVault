@@ -1,3 +1,4 @@
+Een reële rij is gewoon een geordende rij van nummers. Een eindige lijst van $n$ elementen kan een $n$-tuple genoemd worden. 
 ## Notatie
 ### gesloten vorm
 $a_{j} = j$,       $j= 1,3,5$     --> foute notatie

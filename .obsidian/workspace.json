@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Index Calculus.md",
+                "file": "Calculus/Gemaakte oefeningen.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/continuiteit/Limieten van functies.md",
+                "file": "Calculus/Gemaakte oefeningen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/continuiteit/Limieten van functies.md",
+                "file": "Calculus/Gemaakte oefeningen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/continuiteit/Limieten van functies.md"
+                "file": "Calculus/Gemaakte oefeningen.md"
               }
             }
           }
@@ -159,9 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9a28cbc9da476d7",
+  "active": "8fb13e02d21ec0f5",
   "lastOpenFiles": [
+    "Calculus/rijen en hun limieten/Reële rijen.md",
+    "Calculus/Gemaakte oefeningen.md",
     "Calculus/Index Calculus.md",
+    "Calculus/continuiteit/Limieten van functies.md",
     "Calculus/continuiteit/Extreme waarden en grenzen voor functies.md",
     "Calculus/Afgeleiden/Simpele Afgeleiden.md",
     "Calculus/Afgeleiden/Helling, snelheid en Raaklijnen.md",
@@ -173,11 +175,9 @@
     "Untitled.md",
     "Calculus/Afgeleiden",
     "Calculus/continuiteit/Exponentieel en Logaritmisch.md",
-    "Calculus/continuiteit/Limieten van functies.md",
     "Calculus/continuiteit/Continue functies.md",
     "Calculus/continuiteit",
     "Calculus/rijen en hun limieten/Limieten van reële rijen.md",
-    "Calculus/rijen en hun limieten/Reële rijen.md",
     "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
     "Calculus/rijen en hun limieten",
     "Calculus",
@@ -190,7 +190,6 @@
     "objectgericht programmeren/JDBC en Databanken/Batch-bewerkingen.md",
     "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
     "objectgericht programmeren/Model-View-Controller/JavaFX-eigenschappen.md",
-    "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
     "4913",
     "objectgericht programmeren/Databanken abstraheren",
     "objectgericht programmeren/JDBC en Databanken",
