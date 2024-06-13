@@ -12,3 +12,10 @@ ResourceBundle bundle = ResourceBundle.getBundle("/languages", locale);
 Het is ook mogelijk dit in de FXML te steken: door bijvoorbeeld `<Button text="%knopTekst">` te gebruiken en `Parent root = FXMLLoader.load(fxmlFile, ResourceBundle.getBundle("/languages"))`
 
 Het is ook mogelijk om berichten te formatteren. Zo kan een foutmelding bijvoorbeeld zijn `"Kon {0} niet openen omdat {1}"`. Dit bericht kan dan getoond worden met `Message.format()`.
+
+```java
+String message = MessageFormat.format (
+	bundle.getString ("message"), fieldName, folderName)
+);
+messageLabel.setText (message);
+```

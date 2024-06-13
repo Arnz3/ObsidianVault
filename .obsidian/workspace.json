@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "objectgericht programmeren/Index Objectgericht Programmeren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3151ce3ced57ff9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fecdc41e1670a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "objectgericht programmeren/Databanken abstraheren/Data acces objects.md",
+                "file": "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
+                "file": "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
+                "file": "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md"
+                "file": "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md"
               }
             }
           }
@@ -171,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3151ce3ced57ff9d",
+  "active": "8fb13e02d21ec0f5",
   "lastOpenFiles": [
     "objectgericht programmeren/Index Objectgericht Programmeren.md",
-    "objectgericht programmeren/Databanken abstraheren/Data acces objects.md",
+    "objectgericht programmeren/complexe componenten/Een eenvoudige tabel.md",
+    "objectgericht programmeren/complexe componenten/Cell factories voor tabellen.md",
+    "objectgericht programmeren/Persistente informatie/Eigenschapsbestanden.md",
+    "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md",
+    "objectgericht programmeren/JavaFX aanvullingen/Gelijkaardige componenten.md",
+    "objectgericht programmeren/JDBC en Databanken/Batch-bewerkingen.md",
+    "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
+    "objectgericht programmeren/Model-View-Controller/JavaFX-eigenschappen.md",
     "objectgericht programmeren/Databanken abstraheren/Data acces context and data acces provider.md",
+    "objectgericht programmeren/complexe componenten/Een boomdiagram.md",
+    "objectgericht programmeren/Bijkomende aspecten/Klassen, interfaces en methodes met typeparameters.md",
     "objectgericht programmeren/Programmeren 'zonder if'/Visitor design patern.md",
+    "objectgericht programmeren/Persistente informatie/JSON met behulp van Jackson.md",
+    "objectgericht programmeren/Persistente informatie/Het pakket java.nio.file.md",
+    "objectgericht programmeren/Persistente informatie/XML met behulp van JDOM.md",
+    "objectgericht programmeren/Persistente informatie/Persistente informatie in tekstbestanden.md",
+    "objectgericht programmeren/Databanken abstraheren/Data acces objects.md",
     "Algoritmen & Datastructuren/Index Algortimen & Datastructuren.md",
     "objectgericht programmeren/Model-View-Controller/Model-View-Controller.md",
     "objectgericht programmeren/complexe componenten/Selectiemodel.md",
-    "objectgericht programmeren/complexe componenten/Een boomdiagram.md",
     "objectgericht programmeren/complexe componenten/Editeerbare tabellen.md",
-    "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md",
     "objectgericht programmeren/complexe componenten/Cell value factories.md",
-    "objectgericht programmeren/Model-View-Controller/JavaFX-eigenschappen.md",
-    "objectgericht programmeren/complexe componenten/Cell factories voor tabellen.md",
     "objectgericht programmeren/complexe componenten/combo box en cell factory.md",
-    "objectgericht programmeren/complexe componenten/Een eenvoudige tabel.md",
     "objectgericht programmeren/JavaFX aanvullingen/Scènes bouwen zonder FXML.md",
     "objectgericht programmeren/JavaFX aanvullingen/Eigen component definiëren.md",
-    "objectgericht programmeren/JavaFX aanvullingen/Gelijkaardige componenten.md",
-    "objectgericht programmeren/Persistente informatie/JSON met behulp van Jackson.md",
-    "objectgericht programmeren/Persistente informatie/XML met behulp van JDOM.md",
-    "objectgericht programmeren/Persistente informatie/Persistente informatie in tekstbestanden.md",
-    "objectgericht programmeren/Persistente informatie/Het pakket java.nio.file.md",
-    "objectgericht programmeren/Persistente informatie/Eigenschapsbestanden.md",
-    "objectgericht programmeren/Bijkomende aspecten/Java streams.md",
-    "objectgericht programmeren/Databanken abstraheren/Implementatie van data acces-lib.md",
-    "objectgericht programmeren/Bijkomende aspecten/Statische binnenklassen.md",
     "4913",
     "objectgericht programmeren/Databanken abstraheren",
     "objectgericht programmeren/JDBC en Databanken",
