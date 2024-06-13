@@ -12,6 +12,8 @@
 - 3.5 [[Discontinuiteit]]
 - 3.6 [[Exponentieel en Logaritmisch]]
 # 4 Afgeleiden
+- 4.1 [[Helling, snelheid en Raaklijnen]]
+- 4.2 [[Simpele Afgeleiden]]
 
 
 

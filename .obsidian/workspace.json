@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Afgeleiden/Simpele Afgeleiden.md",
+                "file": "Calculus/Index Calculus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Afgeleiden/Simpele Afgeleiden.md",
+                "file": "Calculus/Index Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Afgeleiden/Simpele Afgeleiden.md",
+                "file": "Calculus/Index Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Afgeleiden/Simpele Afgeleiden.md"
+                "file": "Calculus/Index Calculus.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "8fb13e02d21ec0f5",
   "lastOpenFiles": [
-    "Untitled.md",
     "Calculus/Afgeleiden/Simpele Afgeleiden.md",
+    "Untitled.md",
     "Calculus/Afgeleiden/Helling, snelheid en Raaklijnen.md",
     "Calculus/Index Calculus.md",
     "Calculus/Afgeleiden",
