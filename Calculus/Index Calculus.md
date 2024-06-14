@@ -16,6 +16,7 @@
 - 4.2 [[Simpele Afgeleiden]]
 - 4.3 [[Afgeleiden van exponentiele en logaritmische functies]]
 - 4.4 [[Afgeleiden en Inverse functies]]
+- 4.5 [[Kettingregel]]
 
 
 
