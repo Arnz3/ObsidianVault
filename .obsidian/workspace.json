@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Afgeleiden/Simpele Afgeleiden.md",
+                "file": "Calculus/Index Calculus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Afgeleiden/Simpele Afgeleiden.md",
+                "file": "Calculus/Index Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Afgeleiden/Simpele Afgeleiden.md",
+                "file": "Calculus/Index Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Afgeleiden/Simpele Afgeleiden.md"
+                "file": "Calculus/Index Calculus.md"
               }
             }
           }
@@ -177,7 +177,6 @@
     "objectgericht programmeren/JavaFX aanvullingen/Internationalisatie.md",
     "objectgericht programmeren/JavaFX aanvullingen/Gelijkaardige componenten.md",
     "objectgericht programmeren/JDBC en Databanken/Batch-bewerkingen.md",
-    "objectgericht programmeren/JDBC en Databanken/Databanken met JDBC.md",
     "4913",
     "objectgericht programmeren/Databanken abstraheren",
     "objectgericht programmeren/JDBC en Databanken",

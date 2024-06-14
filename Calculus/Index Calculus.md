@@ -14,6 +14,7 @@
 # 4 Afgeleiden
 - 4.1 [[Helling, snelheid en Raaklijnen]]
 - 4.2 [[Simpele Afgeleiden]]
+- 4.3 [[Afgeleiden van exponentiele en logaritmische functies]]
 
 
 
