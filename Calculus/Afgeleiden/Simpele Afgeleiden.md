@@ -1,6 +1,7 @@
 $\frac{d}{dx}[1] = 0$ 
 $\frac{d}{dx} [x] = 1$ 
 $\frac{d}{dx}[cx^{n}] = ncx^{n-1}$ 
+$\frac{d}{dx} [x^{-1}] = -nx^{-(n+1)}$  
 
 ### bewerkingen met afgeleiden
 **Optelling en Aftrekking**
@@ -18,6 +19,16 @@ Als $f$ en $g$ afleidbaar zijn dan geldt:
 Als $u= f(x)$ en $v= g(x)$ beiden afleidbaar zijn, dan zijn ook het product en quotiënt van $u$ en $v$ afleidbaar. 
 
 ## Goniometrische Functies
+Enkele limieten
+$\displaystyle \lim_{\theta\to 0} \frac{\sin\theta}{\theta} = 1$ 
+$\displaystyle \lim_{\theta\to 0} \frac{1- \cos\theta}{\theta} = 0$ 
+
+En enkele formules
+$\sin (\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha \sin\beta$ 
+$\cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\cos\alpha$ 
+
+### afgeleiden van Goniometrische functies
+
 $\frac{d}{dx}[\sin x]= \cos x$ 
 $\frac{d}{dx}[\cos x] = -\sin x$ 
 $\frac{d}{dx}[\tan x] = \sec^{2} x$ 
