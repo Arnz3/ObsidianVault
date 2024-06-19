@@ -17,6 +17,10 @@
 - 4.3 [[Afgeleiden van exponentiele en logaritmische functies]]
 - 4.4 [[Afgeleiden en Inverse functies]]
 - 4.5 [[Kettingregel]]
+- 4.8 [[Geometrische toepassingen van limieten en afgeleiden]]
+- 4.9 
+- 4.10 
+# 5 Integralen
 
 
 

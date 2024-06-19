@@ -1,7 +1,7 @@
 $\frac{d}{dx}[1] = 0$ 
 $\frac{d}{dx} [x] = 1$ 
 $\frac{d}{dx}[cx^{n}] = ncx^{n-1}$ 
-$\frac{d}{dx} [x^{-1}] = -nx^{-(n+1)}$  
+$\frac{d}{dx} [nx^{-1}] = -nx^{-(n+1)}$  
 
 ### bewerkingen met afgeleiden
 **Optelling en Aftrekking**
