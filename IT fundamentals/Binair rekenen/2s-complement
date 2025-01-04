@@ -1,0 +1,17 @@
+__positieve getallen__ -> gewone binaire vorm 
+
+__negatieve getallen__
+1. binaire vorm van absolute waarde
+2. inverteer alle bits
+3. tel 1 erbij op
+
+
+__!MSB is dan ook teken__
+
+_Voorbeeld_
+-20 -> 1110 1100
+
+1. 0001 0100
+2. 1110 1011
+3. 1110 1100
+
