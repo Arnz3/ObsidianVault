@@ -8,6 +8,13 @@
 - New table or index: allocation in mixed extent
 - Extension 8 > pages : in uniform extent
 
+
+## Creation of indexes
+```sql
+CREATE [UNIQUE] [| NONCLUSTERED]
+INDEX index_name ON table (kolom [,...n])
+INCLUDE(kolom [,...n])
+```
 # Clustered vs Non-clustered indexes
 ## Table scan 
 - Heap: unordered collection of data-pages without clustered index (default)

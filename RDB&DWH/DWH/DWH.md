@@ -68,7 +68,7 @@ __Complexity of integration__
 __Complex change and version management__
 
 # DWH components
-// ADDPIC
+![[Pasted image 20250107211340.png]]
 
 ## Data mart
 => DB existing of subset of company data to support the needs of a particular business unit for data analysis or to support users sharing the same needs for analyzing business processes.

@@ -1,6 +1,6 @@
 bepaal deelrij $a_{i}, ... , a_{j}$ waarvoor deelrijsom $a_{i} + ... + a_{j}$ maximaal is.
 
-## brute force algortimen
+## brute force algoritmen
 ```
 INPUT: rij van n getallen(a0, ..., an-1)
 OUTPUT: waarde van maximale deelrijsom
