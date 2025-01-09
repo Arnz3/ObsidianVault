@@ -90,25 +90,26 @@ why not reuse existing natural or business keys
 ### SCD type 1 
 - old value is overwritten
 - value not maintained historically
-
+![[Pasted image 20250109112659.png]]
 ### SCD type 2 
 - new record is created, current records and closed records
 - Duplicating records and adding start & end date 
-
+![[Pasted image 20250109112713.png]]
 ### SCD type 3 
 - current & previous kept in different columns
 - only partial historical info
+![[Pasted image 20250109112738.png]]
 
 ### SCD type 4 
 - Create 2 dimensions: ... & ..._history, both linked to the fact table 
-
+![[Pasted image 20250109112753.png]]
 ## Rapidly changing dimension 
 => dimensions that change rapidly and regularly over a period of time 
 - split customer info into stable and rapidly changing info, put in mini-dimension with new surrogate key
 2 options to connect both tables
 - Additional foreign key in fact table reffering to mini-dimension
 - Include foreign key in Customer dimension
-
+![[Pasted image 20250109112830.png]]
 ## Advantages Dim model
 - Efficiency (consistent DB structure, tools have efficient acces)
 - handle changing requirements
