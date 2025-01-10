@@ -1,0 +1,8 @@
+# Absolute waarde functie
+De absolute waarde functie is de functie met voorschrift
+$$
+abs: \mathbb{R} \to \mathbb{R} : x \mapsto \sqrt{x^{2}} = \begin{cases}
+  x, & \text{als } x \geq 0, \\
+  -x, & \text{als} x < 0.
+\end{cases}
+$$
