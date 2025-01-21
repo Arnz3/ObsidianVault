@@ -8,10 +8,13 @@ __NIS2__
 -...
 
 ## Nist Framework
+National Institute of Standards and Technologies 
+
+Framework voor bedrijven en organistaties die cyberbeveilingsprofessionals nodig hebben.
 
 ## ISO/IEC cybersecurty model
 - ISO/IEC 27000 is een standaard opgesteld in 2005 (geupdate in 2013)
-- niet verplicht
+- niet verplicht , meer een hulpmiddel
 - wel veel gebruikt
 - checklist
 
@@ -28,6 +31,14 @@ _Gray hats die protesteren tegen politieke of sociale ideeen_
 _Black of White hat die buitenlandse regeringen proberen hacken voor geheimen en inlichtingen_ 
 
 # Verdedigers
+## cybersecurityspecialisten
+het dwarsbomen van cybercriminaliteit is een moeilijke taak. Daarom veel gecoordineerde acties om cybercriminelen tegen te gaan of af te weren 
+
+- Vulnerability Databases
+- Early Warning systems
+- Share cyberthreat intelligence
+- ISM-normen
+
 __Interne aanvallen__
 Meestal vanuit het netwerk zelf of gebouw, grotere schade, meestal ook kennis van het systeem.
 

@@ -1,7 +1,7 @@
 => Beveiligde communicatie over publiek netwerk
 
 - maakt prive netwerk over internet aan (tunnel)
-- gebruikt voor verbinden vna verschillen geografsiche locaties
+- gebruikt voor verbinden van verschillende geografische locaties
 bv verschillende HoGent campussen op zelfde netwerk
 - Users hebben dit niet door
 - Gebruikt TLS/SSL certificaten

@@ -54,7 +54,7 @@ Misbruik maken van veel voorkomende typefouten.
 Het aflezen van PIN-codes of wachtwoorden en dergelijke
 
 ## Piggybacking/tialgating
-Het meeglippen met personen die wel toegang hebben tot een bepaalde plaats met beperkte toegang.
+Het mee glippen met personen die wel toegang hebben tot een bepaalde plaats met beperkte toegang.
 
 # E-mail en browser aanvallen
 
@@ -62,7 +62,7 @@ Het meeglippen met personen die wel toegang hebben tot een bepaalde plaats met b
 Gebruik maken van Search Engine Optimization om kwaadaardige websites hoog in google te laten ranken.
 
 ## Browser Hijacking
-Browser instellingen worden gewijwigd, website verwijzen naar kwaadaardige websites.
+Browser instellingen worden gewijzigd, website verwijzen naar kwaadaardige websites.
 
 ## Hoaxes
 Een leugen, valse info, vaak onschadelijk maar niet altijd.
@@ -93,12 +93,12 @@ Een acces point die zich voor doet als vertrouwelijke apparaat. Dit laat je MITM
 proberen gebruik te maken van een kwetsbaarheid in de software die nog niet gekend is.
 
 ## Cross-site scripting (XSS)
-Kwestbaarheid in weg app, waardoor je scripts kan injecteren in een webpagina.
+Kwetsbaarheid in web app, waardoor je scripts kan injecteren in een webpagina.
 
 ## code injection
 Bijv SQL injection. om een databank aan te passen.
 
-## Buffer overflowk
+## Buffer overflow
 Wanneer data over zijn limiet gaat. Men past data aan en vergroot het tot het de buffers van de applicatie overschrijdt. Gebruikt de app data die door een ander applicatie wordt gebruikt.
 
 ## Remote code execution RCE

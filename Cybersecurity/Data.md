@@ -8,6 +8,7 @@
 - __Integrity__ (klopt dit wel)
 - __Availibility__ (Kan ik eraan als ik het nodig heb)
 
-# cybersecurity driehoek
+# cybersecurity kubus
 => data beschermen in al zijn staten
 
+![[cybersecurity-cube.webp]]

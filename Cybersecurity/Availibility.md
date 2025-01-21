@@ -1,9 +1,9 @@
 # Onvoorziene problemen
-## Disater Recovery Planning
+## Disaster Recovery Planning
 Organisatie moet draaiende wanneer een ramp optreed
 
 # Hoge beschikbaarheid
-## fine nines
+## five nines
 => Systemen met uptime van 99,999%
 Downtime van maximum 5min 15,36 seconden per jaar
 

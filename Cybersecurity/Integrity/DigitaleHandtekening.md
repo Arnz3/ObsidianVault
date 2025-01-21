@@ -6,5 +6,5 @@ Controle van 2 dingen:
 # Hoe het werkt
  - Assymmetrische encryptie genereert een publieke en private sleutel per persoon
  - Alice voegt digitale handtekening toe met private key
- - public key kna gebruikt worden om integriteit te controleren
+ - public key kan gebruikt worden om integriteit te controleren
 

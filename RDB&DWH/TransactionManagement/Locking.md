@@ -15,6 +15,8 @@ is granted and released acording to a protocol, and held for longer time until t
 __Short-term__
 only held during interval to complete operation (can be used to improve throughput)
 
+![[Pasted image 20250109113903.png]]
+
 ## Read uncommited
 - lowest isolation level
 - Reader doesn't ask for shared lock

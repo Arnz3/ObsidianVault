@@ -3,6 +3,11 @@
 - zwakke punten blootleggen
 
 in 5 fasen
+- Reconnaissance
+- Scanning & Enumeration
+- Gaining Acces
+- maintaining acces
+- covering tracks
 
 # Reconnaissance
 - zoveel mogelijk info verzamelen
