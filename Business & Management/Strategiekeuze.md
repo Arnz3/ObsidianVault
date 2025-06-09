@@ -66,4 +66,12 @@ __Customer Intimacy__
 - nog werkbaar?
 - nieuwe aandachtspunten uit confrontatiematrix?
 - andere mogelijkheden
+### Suitability
+=> kunnen de doelen en doelstellingen worden gerealiseert?
+### Feasibility
+=> Heeft het bedrijf de competenties om deze strategie te behaen
+### Acceptebility
+=> wordt de strategie door alle belangengroepen gedragen?
+### MVO
+
 

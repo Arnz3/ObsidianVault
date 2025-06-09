@@ -1,0 +1,8 @@
+1. [[Continuiteitskring & Waardecreatie]]
+2. [[Macro-omgevingsanalyse]]
+3. [[Sector-Analyse]]
+4. [[Analyse van de organisatie]]
+5. [[SWOT-analyse]]
+6. [[Strategiekeuze]]
+7. [[Waardeaanbod]]
+8. [[Opvolging]]

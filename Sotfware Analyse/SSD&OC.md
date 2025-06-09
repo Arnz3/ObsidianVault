@@ -10,7 +10,7 @@ __ALTIJD__ ACTOR en SYSTEEM
 ACTOR: links + rol actor
 SYSTEEM: rechts
 
-### 2 Levenslij
+### 2 Levenslijn
 - 1 per deelnemer
 - blok wanneer actief, stippenlijn niet actief
 - Actor: altijd actief
