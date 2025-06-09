@@ -9,6 +9,8 @@ Staat voor
 - laat zien hoe een organisatie aansluit op externe omgeving
 - sterktes en zwaktes afgetoetst tegenover kansen en bedreigingen
 -> doel om nieuwe strategie te ontwikkelen
+
+![[Pasted image 20250609112142.png]]
 ### Werkwijze
 1. selecteer 3 belangrijkste sterkten, zwakten, kansen & bedreigingen
 2. Koppel in de matrix de sterkten en zwakten aan kansen en bedreigingen

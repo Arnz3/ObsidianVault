@@ -26,6 +26,8 @@ __Nadelen__
 ### uitgaande logistiek
 Klassiek distributiemodel
 -> verdelen van vooraad over verdelers, winkels, ...
+![[Pasted image 20250609112621.png]]
 
 Nieuw distributiemodel
 -> rechtstreeks gekocht aan fabrikant
+![[Pasted image 20250609112642.png]]

@@ -29,6 +29,8 @@ Hoe concurrentie voordeel behalen?
 - niet allen op productniveau concurreren
 - activiteiten kunnen bijdragen aan creatie en levering van producten
 - waarde keten analyseren, waar activiteiten optimaliseren?
+
+![[Pasted image 20250609111905.png]]
 ### primaire activiteiten
 => activiteiten die rechtstreeks waarde toevoegen aan het product van de organisatie
 - ontvangst en opslag
@@ -51,11 +53,14 @@ Hoe concurrentie voordeel behalen?
 - die zwak scoren
 goeie score -> duurzaam concurrentie voordeel
 
+![[Pasted image 20250609111944.png]]
 ## BCG-matrix
 - geeft overzicht van alle producten die bedrijf op de markt aanbied
 - na gaan welke acties bedrijf moet ondernemen
  $\text{1e dim : Relatiefmarktaandeel} = \frac{\text{Eigen marktaandeel}}{\text{marktaandeel grootste concurrent}}$    
  $\text{2e dim : groeitempo van de markt? hoe aantrekkelijk is de markt?}$
+ 
+![[Pasted image 20250609112019.png]]
 ### questionmark
 => geen marktleider in snelgroeiende markt
 ### Star

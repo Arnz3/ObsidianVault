@@ -7,7 +7,7 @@
 ## strategiekaart
 => instrument dat helpt strategie vertalen naar activiteit
 - hulpmiddel voor analyseren van belangrijke informatie
-
+![[Pasted image 20250609112741.png]]
 2 soorten indicatoren:
 - __lagging indicatoren__: info over het verleden (1ste niveau, financieel)
 - __leading indicatoren__: info over waarschijnlijke toekomst (3 andere niveaus)
@@ -16,3 +16,4 @@
 -> strategiekaart niet genoeg voor PDCA-cyclus, wel vertrek punt voor balanced scorecard
 - per niveau aantal doelstellingen
 - elk niveau beinvloed het volgende
+![[Pasted image 20250609112811.png]]

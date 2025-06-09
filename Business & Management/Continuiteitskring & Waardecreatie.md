@@ -1,9 +1,9 @@
 # 1 Business
 => zaak die met een commercieel doel wordt opgericht, activiteiten nodig om zaak draaiende te houden
-
 ## Continuiteitskring
 organisatie die wilt voortbestaan streeft naar continuiteit. 
 - steeds herhalend proces
+![[Pasted image 20250609110626.png]]
 ### Producten
 => goederen of diensten laten organisatie toe klantenbehoefte en klantenwens te beantwoorden
 ### klantenbehoefte
@@ -37,7 +37,7 @@ Concurentie verslaan
 - Basisbehoeften bevredigen
 - Uniek aanbod creëeren
 - Extra meerwaarde aanbieden
-
+![[Pasted image 20250609110817.png]]
 # 2 Management
 => manier waarop een zaak wordt geleid om continuiteit te kunnen realiseren
 verschillende activiteiten:

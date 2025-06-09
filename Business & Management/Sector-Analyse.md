@@ -46,6 +46,8 @@ Relaties onderhouden
 
 ## Vijfkrachtenmodel Porter
 - Concurentiekrachten: 5 krachten die aantrekkelijkheid sector bepalen
+
+![[Pasted image 20250609111253.png]]
 ### Interne concurrentie
 - aantal concurrenten
 - grootte van concurrenten
@@ -65,3 +67,5 @@ mogelijke toegangsdrempels
 - overheidsbeleid
 - overstapkosten
 - verwachte reactie bestaande concurenten
+
+![[Pasted image 20250609111527.png]]

@@ -30,6 +30,8 @@ __Doelstelling__ (vb. 20% omzet groei tegen ...)
 => winst of omzet verhogen door nieuwe klanten te werven
 - groei strategieën Ansoff-matrix helpen hierbij
 
+![[Pasted image 20250609112324.png]]
+
 __Marktpenetratie__
 - verkoop van bestaande producten op bestaande markten verhogen
 - doel = het verhogen van huidig markt aandeel
@@ -58,6 +60,7 @@ __Customer Intimacy__
 - Aanbod voor individuele klant
 - Persoonlijk advies
 
+![[Pasted image 20250609112356.png]]
 ### marktconform of concurrentievoordeel
 - op alle 3 strategieën de drempelwaarde behalen om marktconform te blijven
 - waarin uitblinken? om concurrentievoordeel te behalen
