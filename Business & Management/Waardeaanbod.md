@@ -10,10 +10,12 @@ De gekozen strategie moet concreet worden gemaakt
 => levering en productie wordnen afgestemd zodat nauwelijks of geen vooraden in bedrijf nodig zijn
 
 - Leveranciers hebben real time toegang tot vooraden van bedrijf
+
 __Voordelen__
 - Minder vooraadskosten
 - Minder kapitaal in vooraad
 - Minder kans op schade, verlies of diefstal
+
 __Nadelen__
 - geen foutmarge in levering
 - geen onverwachte bestellingen

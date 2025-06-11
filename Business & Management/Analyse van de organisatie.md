@@ -1,12 +1,15 @@
 ## interne omgeving
 => middelen en capaciteiten van een organisatie
 - beslissingsbehoeftheid
+
 __middelen__ zijn bezittingen
 - materieel
 - immaterieel
 - Financieel
+
 __capaciteiten__ zijn vaardigheden en vermogen om nodige activiteiten te ontplooien
 - over kennis en ervaring beschikken
+
 => geeft inzicht in sterkten en zwakten van de organisatie
 ### sterkten
 => interne componenten met eventuele gunstige invloed

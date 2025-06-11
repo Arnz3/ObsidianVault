@@ -36,13 +36,16 @@ __Marktpenetratie__
 - verkoop van bestaande producten op bestaande markten verhogen
 - doel = het verhogen van huidig markt aandeel
 - Product verbruik stimuleren
+
 __Marktontwikkeling__
 - bestaande producten op nieuwe markt verkopen
 - leerproces voor organisatie, want ander klanten
+
 __Productontwikkeling__
 - nieuwe producten aan bestaande klanten
 -> ter vervanging van de huidige producten, verbeteren
 -> nieuwe producten
+
 __Diversificatie__
 - meeste risico
 - _Verwante diversificatie:_ in lijn van het reeds bestaande assortiment
@@ -51,10 +54,12 @@ __Diversificatie__
 __Operational Excellence__
 - voldoende kwaliteit tegen redelijke prijzen
 - koop gemak of convenience primeert
+
 __Product leadership__
 - beste, inovatieve producten aanbieden
 - R&D is essentieel
 - Topkwaliteit nastreven
+
 __Customer Intimacy__
 - Maatwerk: "Wat is voor jou het beste product"
 - Aanbod voor individuele klant
