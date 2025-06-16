@@ -29,9 +29,6 @@
 - Multicast -> meerdere devices in groep
 - Anycast -> dichtste apparaat in groep
 
-### Unique local address
-- van `fc00::`tot `fdff::`
-- uniek binnen lokaal netwerk
 ### Global Unicast Address (GUA)
 - globaal uniek
 - soort van publiek IPv4 adres
@@ -48,6 +45,8 @@
 ICMPv6 zorgt voor uitwisselen van info tussen interfaces
 - Apparaat die IPv6 adres nodig heeft zend Router Solicitation
 - Router antwoord met Router advertisement en juiste methoden
+
+Er zijn 3 methoden
 ### SLAAC
 - GUA configureren zonder DHCPv6
 - prefix is gegeven door RA en de rest door EUI-64 of random generator
@@ -72,7 +71,7 @@ __Random__
 - daarna wordt een DAD (Duplicate Address Detection) uitgevoerd om te kijken als het adres nog niet in gebruik is
 
 ## Multicast Addressen
-=> beginnen met ff00::
+=> beginnen met `ff00::/8`
 2 soorten :
 - well known
 - solicited node

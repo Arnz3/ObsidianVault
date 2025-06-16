@@ -29,7 +29,7 @@ __Broadcast__ -> `FF-FF-FF-FF-FF-FF`
 
 ## MAC Address Table
 - Layer 2 switchen gebruiken MAC adresen om forwarding decisions te maken
-- gebruikt MAC address Table (som CAM table)
+- gebruikt MAC address Table (soms CAM table genoemd)
 - bij opstart is tabel leeg, wordt opgeslagen in RAM
 - Elke frame die de switch binnenkomt wordt gecontroleerd op nieuwe informatie
 - Als bestemmings adres unicast is kijkt hij ook voor een match

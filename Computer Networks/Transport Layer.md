@@ -2,11 +2,11 @@
 - bijhouden individuele conversaties
 - segmenteren van data
 - multiplexing
-- TCP 
-- UDP
+- TCP (Transmission Control Protocol) -> segments
+- UDP (User Datagram Protocol) -> datagrams
 ## TCP overview
 - maakt een connectie tussen bron en bestemming
-- Zorgt voor betrouwbare delivery, dat pakketje zeker aankomt
+- Zorgt voor betrouwbare delivery, dat segment zeker aankomt
 - Same-order delivery, pakketten komen in juiste volgorde 
 - Flow-Control, TCP weet wanneer resources overbelast zijn
 - statefull, houdt de staat van communicatie bij

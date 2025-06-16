@@ -29,7 +29,7 @@ __private__ ip adressen zijn enkel uniek binnen een LAN
 - 3 opties
 	- `10.0.0.0/8`
 	- `172.16.0.0/12`
-	- `192.168.0.0/16
+	- `192.168.0.0/16`
 
 ### routing naar het internet
 => NAT of Network Address Translation, vertaald private IPv4 adressen naar publieke IPv4 adressen
@@ -44,6 +44,9 @@ __Link-Local adressen__
 - gebruikt door windows DHCP wanneer geen DHCP server beschikbaar is
 
 ### Klasses
+vroeger werd de klassen methode gebruikt om te weten als een ip address private of public was, nu doen we dit aan de hand van de default gateway.
+
+Klasse D en E gelden wel nog steeds
 
 | Klasse | range      | toepassing               |
 | ------ | ---------- | ------------------------ |
