@@ -144,3 +144,4 @@ __Zonder preemption
 __Met preemption__
 - Shortest Remaining Time (SRT)
 - Round Robin (RR)
+![[Pasted image 20250616104923.png]]![[Pasted image 20250616104945.png]]
