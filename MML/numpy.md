@@ -13,6 +13,7 @@ Een aantal methodes kunnen ook gebruikt worden om matrices aan te maken.
 ```python
 np.zeros((3,4))
 np.array([[1, 2, 3], [4, 5, 6]]) # 2 x 3 matrix
+np.eye(2) # eenheidsmatrix
 ```
 
 ### attributen
@@ -109,4 +110,23 @@ np.sum(a, axis=1)  # array([3, 12])
 np.sum(a, axis=1, keepdims=True)  # array([[ 3],
                                   #        [12]])
 ```
+
+## Lineaire Algebra
+```python
+a.T                       # transponeren van een matrix
+np.dot(a,b)               # inwendig product
+np.matmul(a,b)            # matrix-vectorproduct
+a @ a.T                   # matrix-vectorproduct
+np.linalg.svd(a)          # SVD
+np.linalg.inv(a)          # pseudo-inverse
+np.linalg.det(a)          # determinant
+```
+
+## vergelijken van arrays
+Omdat floats slechts met eindige precisie worden voorgesteld, kunnen we ze niet vergelijken met `==`operator. In numpy kun je arrays van floats vergelijken met 
+```python
+np.allclose(a,b)
+```
+
+
 
