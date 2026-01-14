@@ -4,12 +4,12 @@ De wortel is de eerste actieve top. Tijdens elk stadium in het doorlopen worden 
 ```
 INPUT: graaf G = (V, E)
 OUTPUT: labels l voor G, bogenverzameling B van breedte-eerst-woud, rij P met voor elke top zijn ouder in het woud
-l(v) <- 0, VA v in V
+l(v) <- 0, VA v in V // kost O(n)
 i <- 0; B <- null; Q <- null
 for all v in V met l(v) = 0 do
 	i <- i + 1; l(v) <- i
 	Q.enqueue(v)
-	while Q != null do
+	while Q != null do // doet dit 2m keer, elke boog vanuit toppen
 		w <- Q.dequeue()
 		for all x in V met x ~ w en l(x) = 0 do
 			i <- i+1; l(x) <- i
