@@ -68,3 +68,65 @@ $$
 PA=LU
 $$
 
+## Oplossen van stelsels
+We wensen volgend stelsel op te lossen $Ax = B$
+- Door LU weten we dat $PA = LU$
+- dus $PAx = Pb \iff LUx = Pb$
+Los eerst op met voorwaartse substitutie
+$$
+Ly = Pb
+$$
+Vervolgens gebruik je door achterwaartse substitutie
+$$
+Ux = y
+$$
+## De inverse matrix
+De inverse matrix van een niet-singuliere vierkante matrix $A \in \mathbb{R}^{n \times n}$ is de matrix $X$ waarvoor geldt dat
+$$
+AX = I_n \iff
+\begin{bmatrix}
+\vert & \vert && \vert \\\
+x_1 & x_2 & \dots & x_n \\\
+\vert & \vert && \vert 
+\end{bmatrix}
+= I_n
+$$
+
+Dit betekent dat $Ax_i = i$- de kolom van $I_n$
+Het vinden van de inverse matrix $A$ is het oplossen van $n$ stelsels met telkens $A$ dezelfde matrix en rechterleden kolommen van eenheidsmatrix
+
+## Determinant
+=> karakteristiek getal van elke vierkante matrix
+- Determinant driehoeksmatrix = product diagonaal
+- Determinant vierkante matrix -> via LU-decompositie
+$$
+det(AB) =det(A) det(B)
+$$
+$$
+A = LU \iff det(A) = det(L)det(U)
+$$
+$det(L) = 1$ want elementen op diagonal = 1
+$det(U) =$ elementen op de diagonaal
+$$
+det(A) = det(U)
+$$
+## strijdige stelsels
+=> aantal vergelijkingen is groter dan aantal onbekenden
+
+we kunnen proberen en benadering $x^*$ te vinden zodat
+- $Ax^*$ zo dicht mogelijk bij $b$
+
+Aangezien $Ax^*$ behoort tot de kolomruimte van $A$ zoeken we de vector zo dicht mogelijk bij $b$
+- Dit is uiteraard dan de orthogonale projectie van $b$ op de vectorruimte $span\{col(A)\}$ 
+
+We weten dat $A^\intercal A$ een belangrijke rol speelt bij orthogonale projectie:
+$$
+Ax = b
+$$
+$$
+A^\intercal Ax = A^\intercal b
+$$
+Als we aannemen dat de kolommen van $A$ lineair onafhankelijk zijn dan is $A^\intercal A$ inverteerbaar en 
+$$
+x^* = (A^\intercal A)^{-1} A^\intercal b
+$$
