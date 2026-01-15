@@ -1,7 +1,7 @@
 - [x] H3 mml samenvatting digitaal
 - [x] H3 mml oefeningen
 - [x] H4 mml samenvatting digitaal
-- [ ] H4 mml oefeningen 
+- [x] H4 mml oefeningen 
 - [ ] H5 les herbekijken
 - [ ] H5 samenvatting digitaal
 - [ ] numpy oefeningen H1,2,(3)
