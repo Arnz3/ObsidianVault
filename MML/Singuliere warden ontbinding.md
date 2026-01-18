@@ -1,15 +1,15 @@
 => deze laat toe om elke matrix $A$ te schrijven als een product van 3 matrices
 $$
-A_{n \times m} = U_{n \times n} \mathcal{E}_{n \times m} V^\intercal_{m \times m}
+A_{n \times m} = U_{n \times n} \Sigma_{n \times m} V^\intercal_{m \times m}
 $$
 In deze ontbinding zijn $U$ en $V$ orthogonale matrices.
 
-$\mathcal{E}$ is een diagonaalmatrix met op de diagonaal elementen
+$\Sigma$ is een diagonaalmatrix met op de diagonaal elementen
 $$
-\mathcal{E}_{i,i} = \sigma_i
+\Sigma_{i,i} = \sigma_i
 $$
 ### eigenschappen
-- Elementen van $\mathcal{E}$ die niet op de diagonaal staan zijn gelijk aan nul
+- Elementen van $\Sigma$ die niet op de diagonaal staan zijn gelijk aan nul
 - $\sigma_i$ zin de __singuliere waarden__ van $A$
 - Kolommen van $U$ zijn 'links singuliere vectoren' van $A$
 - Kolommen van $V$ zijn 'rechts singuliere vectoren' van $A$
@@ -20,7 +20,7 @@ Wanneer $A$ een 'lange smalle' matrix is $(n > m)$, dan heeft $A$ hoogstens $m$ 
 
 Dus wanneer $n > m$ 
 $$
-A_{n \times m}  = \hat{U}_{n \times m} \hat{\mathcal{E}}_{m \times m} V^\intercal_{m \times m}
+A_{n \times m}  = \hat{U}_{n \times m} \hat{\Sigma}_{m \times m} V^\intercal_{m \times m}
 $$
 Voor $\hat{U}$ is het belangrijk op te merken dat enkel de kolommen orthonormaal zijn. dus
 $$
@@ -60,7 +60,7 @@ Als we de som afbreken na $r$ termen, krijgen we een benadering van $A$. Dit is 
 Deze afwijking wordt gemeten met __Frobenius-norm__ 
 maw
 $$
-\tilde{A}_{n \times m} = \tilde{U}_{n \times r} \tilde{\mathcal{E}}_{r \times r} \tilde{V}_{m \times r}^\intercal
+\tilde{A}_{n \times m} = \tilde{U}_{n \times r} \tilde{\Sigma}_{r \times r} \tilde{V}_{m \times r}^\intercal
 $$
 
 ## Eckart - Young
