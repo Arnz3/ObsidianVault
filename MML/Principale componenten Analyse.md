@@ -8,6 +8,10 @@
 -> verschillende richtingen hebben en grotere of kleinere reconstructiefout
 - men zoekt de kleinste reconstructiefout
 - we definiëren de reconstructiefout als het gemiddelde van de afstanden tussen de originele punten en hun projecties
+
+## totale variabiliteit
+De totale variabiliteit van een dataset is de som van de kwadraten van de singulier waarden.
+
 ### Eigenschap
 Voor een gecentreerde datamatrix $X \in \mathbb{R}^{m \times n}$ bestaande uit $m$ datapunten waarbij elk datapunt bestaat uit $n$ numerieke attributen worden de principale richtingen $c_1$ tem $c_n$ gegeven door de rechts singuliere vectoren van $X$. Deze principale richtingen zijn zodanig dat voor elke $r$ tussen 1 en $n$ er geen $r$-dimensionale deelruimte bestaat die een strikt kleinere reconstructie fout heeft dan de deelruimte opgespannen door $c_1$ tem $c_r$
 
@@ -32,12 +36,12 @@ We kijken enkel naar vectoren die niet afgebeeld worden op nul door $A$, omdat h
 De SVD laat toe om elke matrix te schrijven als het product van een orthogonale, een diagonaalmatrix en een tweede orthogonale matrix. De orthogonale matrices zijn steeds inverteerbaar
 Dus als 
 $$
-A = U\mathcal{E} V^\intercal
+A = U\Sigma V^\intercal
 $$
 Dan definiëren we de __Moore-Penroose pseudoinverse__ als
 $$
-A^+ = U\mathcal{E}^+ V^\intercal
+A^+ = U\Sigma^+ V^\intercal
 $$
-waarbij de pseudoinverse $\mathcal{E}^+$ van $\mathcal{E}$ wordt gegeven door:
-1. $\mathcal{E}$ te transponeren
+waarbij de pseudoinverse $\Sigma^+$ van $\Sigma$ wordt gegeven door:
+1. $\Sigma$ te transponeren
 2. Elke singuliere waarde $\sigma_i (\neq0)$ te vervangen door $\frac{1}{\sigma_i}$
